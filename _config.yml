@@ -9,15 +9,15 @@ permalink:        pretty
 # relative_permalinks: true
 
 # Setup
-title:            
-tagline:          'Ashwini Raina'
-description:      ''
-url:              http://hyde.getpoole.com
+# title:            
+# tagline:          'Ashwini Raina'
+# description:      ''
+# url:              http://hyde.getpoole.com
 #baseurl:          /
 
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+# author:
+  # name:           'Mark Otto'
+  # url:            https://twitter.com/mdo
 
 paginate:         5
 
