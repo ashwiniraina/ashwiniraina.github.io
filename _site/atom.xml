@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title></title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2024-04-23T14:03:50-04:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Mark Otto</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title> </title>
+   <link href="http://localhost:4000/2013/12/28/introducing-hyde/"/>
+   <updated>2013-12-28T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2013/12/28/introducing-hyde</id>
+   <content type="html">&lt;p&gt;Hello! I am a PhD student in Computer Science at &lt;a href=&quot;https://www.cs.princeton.edu&quot;&gt;Princeton University&lt;/a&gt;. I am advised by &lt;a href=&quot;https://www.cs.princeton.edu/~mfreed/&quot;&gt;Prof. Michael Freedman&lt;/a&gt; in the &lt;a href=&quot;https://sns.cs.princeton.edu&quot;&gt;SNS Research Group&lt;/a&gt;. My research interests are in storage systems, analytics and distributed systems. Before joining Princeton, I completed a master’s at &lt;a href=&quot;https://cs.illinois.edu&quot;&gt;University of Illinois Urbana-Champaign&lt;/a&gt; under the guidance of &lt;a href=&quot;http://indy.cs.illinois.edu&quot;&gt;Prof. Indranil Gupta&lt;/a&gt;. Before that, I worked in the industry building high-impact mobile computing systems.&lt;/p&gt;
+
+&lt;h3 id=&quot;news&quot;&gt;News&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fusion is now available on arxiv 2024!&lt;/li&gt;
+  &lt;li&gt;RubbleDB is accepted to &lt;b&gt;ATC 2023&lt;/b&gt;! Congrats, Haoyu!&lt;/li&gt;
+  &lt;li&gt;PrismDB is accepted to &lt;b&gt;ASPLOS 2023&lt;b&gt;!&lt;/b&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;selected-publications&quot;&gt;Selected Publications&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Efficient Compactions Between Storage Tiers with PrismDB&lt;/b&gt;&lt;br /&gt;
+&lt;b&gt;Ashwini Raina&lt;/b&gt;, Jianan Lu, Asaf Cidon, Michael J. Freedman&lt;br /&gt;
+In proc. 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2023&lt;br /&gt;
+&lt;a href=&quot;https://dl.acm.org/doi/10.1145/3582016.3582052&quot;&gt;[paper]&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;RubbleDB: CPU-Efficient Replication with NVMe-oF&lt;/b&gt;
+Haoyu Li, Sheng Jiang, Chen Chen, &lt;b&gt;Ashwini Raina&lt;/b&gt;, Xingyu Zhu, Changxu Luo, Asaf Cidon&lt;br /&gt;
+In proc. USENIX Annual Technical Conference (ATC), 2023&lt;br /&gt;
+&lt;a href=&quot;https://www.usenix.org/system/files/atc23-li-haoyu.pdf&quot;&gt;[paper]&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Popular is Cheaper : Curtailing Memory Costs in Interactive Analytics Engines&lt;/b&gt;&lt;br /&gt;
+Mainak Ghosh, &lt;b&gt;Ashwini Raina&lt;/b&gt;, Le Xu, Xiaoyao Qing, Indranil Gupta, Himanshu Gupta&lt;br /&gt;
+In proc. 13th European Conference on Computer Systems (EuroSys), 2018&lt;br /&gt;
+&lt;a href=&quot;https://dl.acm.org/doi/pdf/10.1145/3190508.3190542&quot;&gt;[paper]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;patents&quot;&gt;Patents&lt;/h3&gt;
+&lt;p&gt;14 granted patents. List of patents can be found &lt;a href=&quot;https://scholar.google.com/citations?user=Q_VanJ8AAAAJ&amp;amp;hl=en&amp;amp;oi=ao&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;!-- ### Teaching
+
+TBD --&gt;
+</content>
+ </entry>
+ 
+
+</feed>
