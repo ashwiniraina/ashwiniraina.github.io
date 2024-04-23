@@ -7,7 +7,7 @@ Hello! I am a PhD student in Computer Science at <a href="https://www.cs.princet
 
 ### News
 
-* Fusion is now available on arxiv 2024!
+<!-- * Fusion is now available on arxiv 2024! -->
 * RubbleDB is accepted to <b>ATC 2023</b>! Congrats, Haoyu!
 * PrismDB is accepted to <b>ASPLOS 2023<b>!
 

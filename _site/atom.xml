@@ -4,7 +4,7 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2024-04-23T14:03:50-04:00</updated>
+ <updated>2024-04-23T14:41:49-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
@@ -21,8 +21,8 @@
 
 &lt;h3 id=&quot;news&quot;&gt;News&lt;/h3&gt;
 
+&lt;!-- * Fusion is now available on arxiv 2024! --&gt;
 &lt;ul&gt;
-  &lt;li&gt;Fusion is now available on arxiv 2024!&lt;/li&gt;
   &lt;li&gt;RubbleDB is accepted to &lt;b&gt;ATC 2023&lt;/b&gt;! Congrats, Haoyu!&lt;/li&gt;
   &lt;li&gt;PrismDB is accepted to &lt;b&gt;ASPLOS 2023&lt;b&gt;!&lt;/b&gt;&lt;/b&gt;&lt;/li&gt;
 &lt;/ul&gt;
